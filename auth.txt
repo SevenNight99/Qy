@@ -1,1 +1,3 @@
-
+YourPlayerName
+AnotherAllowedUser
+9E107D9D372BB6826BD81D3542A419D6  // 這是 HWID 的範例
